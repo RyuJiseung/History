@@ -15,10 +15,11 @@
 | 2017.3.25-2017.05.27 | 1. Building machine learning systems with python (Ch3. Clustering - Finding Related Posts, Ch11. Dimensionality Reduction)  2. 파이썬 라이브러리를 활용한 데이터 분석 (Ch8.도식화와 시각화) |
 | 2017.8.18-현재까지       | 요즈마캠퍼스 스터디ISLR(Ch3. Regression)          |
 
-- R스터디 : https://github.com/RyuJiseung/ISLR
-- 밑러닝 : https://github.com/RyuJiseung/Deep-learning/
+- ISLR : https://github.com/RyuJiseung/ISLR
+- 밑바닥부터 시작하는 딥러닝 : https://github.com/RyuJiseung/Deep_learning
 - 뉴스요약 : https://github.com/RyuJiseung/NewsCrawling
-- 파이썬스터디 : https://github.com/RyuJiseung/Python_Study_2016
+- Building machine learning systems with python : https://github.com/RyuJiseung/Python_Study_2016
+- 파이썬 라이브러리를 활용한 머신러닝 : https://github.com/RyuJiseung/Machine-Learning-with-Python
 
 <공모전>
 
