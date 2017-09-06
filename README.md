@@ -16,6 +16,8 @@
 | 2017.8.18-현재까지       | 요즈마캠퍼스 스터디ISLR(Ch3. Regression)          |
 
 - R스터디 : https://github.com/RyuJiseung/ISLR
+- 밑러닝 : https://github.com/RyuJiseung/Deep-learning/
+- 뉴스요약 : https://github.com/RyuJiseung/NewsCrawling
 - 파이썬스터디 : https://github.com/RyuJiseung/Python_Study_2016
 
 <공모전>
