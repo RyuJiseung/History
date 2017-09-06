@@ -15,7 +15,8 @@
 | 2017.3.25-2017.05.27 | 1. Building machine learning systems with python (Ch3. Clustering - Finding Related Posts, Ch11. Dimensionality Reduction)  2. 파이썬 라이브러리를 활용한 데이터 분석 (Ch8.도식화와 시각화) |
 | 2017.8.18-현재까지       | 요즈마캠퍼스 스터디ISLR(Ch3. Regression)          |
 
-
+- R스터디 : https://github.com/RyuJiseung/ISLR
+- 파이썬스터디 : https://github.com/RyuJiseung/Python_Study_2016
 
 <공모전>
 
@@ -24,7 +25,7 @@
 | 2016.06.25-2016.08.05 | SAS챔피언십   | 질병     | 포기   |
 | 2017.08.09-2017.10.15 | 빅콘테스트2017 | 대출상환예측 | 진행중  |
 
-
+- 빅콘테스트2017 : https://github.com/BigCon2017/Data_Analysis/tree/JiseungRyu
 
 <프로젝트>
 
@@ -34,3 +35,6 @@
 | 2017.03.20-2017.09.11 | R을 활용한 기업 성장성 분석            | 한이음       |
 | 2017.04.01-2017.06.15 | Kaggle에서 인구소득 자료 PCA, LDA분석 | 다변량 분석 수업 |
 
+- 부동산 : https://github.com/RyuJiseung/Distribution-of-monthly-rent-by-subway-station
+- 기업 성장성 : https://github.com/RyuJiseung/Analysis_StockPrice_UpDown
+- Kaggle : https://github.com/RyuJiseung/Kaggle-Income_data
