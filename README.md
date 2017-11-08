@@ -28,7 +28,7 @@
 | 날짜                    | 프로젝트주제                      | 주관        |
 | :-------------------- | --------------------------- | --------- |
 | 2017.02.12-2017.5.2   | [부동산데이터를 이용한 지하철역별 월세분포](https://github.com/RyuJiseung/Distribution-of-monthly-rent-by-subway-station)      | 모딜리아니(공익) |
-| 2017.03.20-2017.09.11 | [R을 활용한 기업 성장성 분석](https://github.com/RyuJiseung/Analysis_StockPrice_UpDown)/한국정보처리학회 추계학술발표대회 논문            | 한이음       |
+| 2017.03.20-2017.09.11 | [R을 활용한 기업 성장성 분석](https://github.com/RyuJiseung/Analysis_StockPrice_UpDown) / 한국정보처리학회 추계학술발표대회 논문        | 한이음       |
 | 2017.04.01-2017.06.15 | [Kaggle에서 인구소득 자료](https://github.com/RyuJiseung/Kaggle-Income_data) PCA, LDA분석 | 다변량 분석 수업 |
 | 2017.09.03-현재        | Kaggle competition : churn prediction | kaggle |
 | 2017.10.18-현재        | 국내 전원구성 최적화 과정에서의 신재생에너지로 인한 리스크 변동분석 | ODF 오픈 데이터 포럼 |
