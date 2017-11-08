@@ -26,7 +26,7 @@
 | 날짜                    | 공모전이름     | 주제     | 결과   |
 | :-------------------- | --------- | ------ | ---- |
 | 2016.06.25-2016.08.05 | SAS챔피언십   | 질병     | 포기   |
-| 2017.08.09-2017.10.15 | 빅콘테스트2017 | 대출상환예측 | 진행중  |
+| 2017.08.09-2017.10.15 | 빅콘테스트2017 | 대출상환예측 | 참가  |
 
 - 빅콘테스트2017 : https://github.com/BigCon2017/Data_Analysis/tree/JiseungRyu
 
@@ -37,6 +37,8 @@
 | 2017.02.12-2017.5.2   | 부동산데이터를 이용한 지하철역별 월세분포      | 모딜리아니(공익) |
 | 2017.03.20-2017.09.11 | R을 활용한 기업 성장성 분석            | 한이음       |
 | 2017.04.01-2017.06.15 | Kaggle에서 인구소득 자료 PCA, LDA분석 | 다변량 분석 수업 |
+| 2017.09.03-현재        | Kaggle competition : churn prediction | kaggle |
+| 2017.10.18-현재        | 국내 전원구성 최적화 과정에서의 신재생에너지로 인한 리스크 변동분석 | ODF 오픈 데이터 포럼 |
 
 - 부동산 : https://github.com/RyuJiseung/Distribution-of-monthly-rent-by-subway-station
 - 기업 성장성 : https://github.com/RyuJiseung/Analysis_StockPrice_UpDown
