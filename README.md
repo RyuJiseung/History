@@ -9,7 +9,7 @@
 | 2017.1.16-2017.2.28  | 요즈마캠퍼스 복습 스터디(책 정리)                      |
 | 2017.2.2-2017.3.9    | [ISLR스터디](https://github.com/RyuJiseung/ISLR)(Ch4. Classification, Ch5. Resampling,Ch7. Spline, Ch8. Tree) |
 | 2017.3.16-2017.5.2   | [밑바닥부터 시작하는 딥러닝](https://github.com/RyuJiseung/Deep_learning)(Ch3. 신경망)                 |
-| 2017.5.9-2017.5.24   | [뉴스크롤링해서 뉴스요약시스템 만들기(Textrank,Laxrank,자체알고리즘)](https://github.com/RyuJiseung/NewsCrawling) |
+| 2017.5.9-2017.5.24   | [뉴스크롤링해서 뉴스요약시스템 만들기](https://github.com/RyuJiseung/NewsCrawling)(Textrank,Laxrank,자체알고리즘) |
 | 2017.5.31-2017.7.24  | Python버전 ISLR스터디(Ch9. SVM)               |
 | 2017.8.31-현재         | [파이썬 라이브러리를 활용한 머신러닝](https://github.com/RyuJiseung/Machine-Learning-with-Python)                      |
 | 2017.3.25-2017.05.27 | [Python_study](https://github.com/RyuJiseung/Python_Study_2016) 1. Building machine learning systems with python (Ch3. Clustering - Finding Related Posts, Ch11. Dimensionality Reduction)  2. 파이썬 라이브러리를 활용한 데이터 분석 (Ch8.도식화와 시각화) |
