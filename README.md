@@ -7,7 +7,7 @@
 | :------------------- | ---------------------------------------- |
 | 2017.1.2-2017.1.14   | 요즈마캠퍼스 (통계, R데이터마이닝, 스파크)                |
 | 2017.1.16-2017.2.28  | 요즈마캠퍼스 복습 스터디 (책 정리)                     |
-| 2017.2.2-2017.3.9    | [ISLR스터디 (Ch4. Classification, Ch5. Resampling,Ch7. Spline, Ch8. Tree) |
+| 2017.2.2-2017.3.9    | [ISLR스터디](https://github.com/RyuJiseung/ISLR) (Ch4. Classification, Ch5. Resampling,Ch7. Spline, Ch8. Tree) |
 | 2017.3.16-2017.5.2   | [밑바닥부터 시작하는 딥러닝](https://github.com/RyuJiseung/Deep_learning) (Ch3. 신경망) |
 | 2017.5.9-2017.5.24   | [뉴스크롤링해서 뉴스요약시스템 만들기](https://github.com/RyuJiseung/NewsCrawling) (Textrank,Laxrank,자체알고리즘) |
 | 2017.5.31-2017.7.24  | Python버전 ISLR스터디 (Ch9. SVM)              |
