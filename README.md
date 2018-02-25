@@ -2,11 +2,14 @@
 
 
 <공모전>
-
+2017. 12. 11(월) ~ 
+2018. 1. 26(금)
 | 날짜                    | 공모전이름                                    | 주제     | 결과   |
 | :--------------------- | ---------------------------------------- | ------ | ---- |
 | 2016.06.25-2016.08.05 | SAS챔피언십                                  | 질병     | 포기   |
 | 2017.08.09-2017.10.15 | [빅콘테스트2017](https://github.com/RyuJiseung/BigCon2017) | 대출상환예측 | 참가   |
+| 2017.12.11-2018.01.26 | [L.Point빅데이터콘테스트](https://github.com/RyuJiseung/2018_L.Point_BigData_Competition) | 상품추천시스템 | 참가   |
+| 2017.09.03-2017.12.17 | [Kaggle competition : churn prediction](https://github.com/RyuJiseung/WSDM_2018) | 고객이탈예측 | 10위   |
 
 
 <프로젝트>
@@ -15,7 +18,6 @@
 | :------------------------ | -------------------------------------------- | ------------- |
 | 2017.03.20-2017.09.11      | [R을 활용한 기업 성장성 분석](https://github.com/RyuJiseung/Analysis_StockPrice_UpDown) / 한국정보처리학회 추계학술발표대회 논문 | 한이음           |
 | 2017.04.01-2017.06.15      | [Kaggle에서 인구소득 자료](https://github.com/RyuJiseung/Kaggle-Income_data) PCA, LDA분석 | 다변량 분석 수업     |
-| 2017.09.03-2017.12.17      | [Kaggle competition : churn prediction](https://github.com/RyuJiseung/WSDM_2018)    | kaggle(WSDM2018)        |
 | 2017.10.18-2017.12.25      | [REC 동향분석](https://ryujiseung.github.io/ODF-Working-Group/)    | ODF 오픈 데이터 포럼 |
  
 
@@ -30,6 +32,6 @@
 | 2017.03.25-2017.05.27 | [Python_study](https://github.com/RyuJiseung/Python_Study_2016) (Ch3. Clustering, Ch11. Dimensionality Reduction, Ch8.도식화와 시각화) |
 | 2017.05.09-2017.05.24   | [뉴스크롤링해서 뉴스요약시스템 만들기](https://github.com/RyuJiseung/NewsCrawling) (Textrank,Laxrank,자체알고리즘) |
 | 2017.05.31-2017.07.24  | Python버전 ISLR스터디 (Ch9. SVM)              |
-| 2017.08.31-현재         | [파이썬 라이브러리를 활용한 머신러닝](https://github.com/RyuJiseung/Machine-Learning-with-Python) |
-
+| 2017.08.31-2018.02.12  | [파이썬 라이브러리를 활용한 머신러닝](https://github.com/RyuJiseung/Machine-Learning-with-Python) |
+| 2018.02.27-현재  | pytorch를 활용한 이미지 분석 |
 
