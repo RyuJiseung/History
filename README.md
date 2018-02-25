@@ -2,14 +2,13 @@
 
 
 <공모전>
-2017. 12. 11(월) ~ 
-2018. 1. 26(금)
+
 | 날짜                    | 공모전이름                                    | 주제     | 결과   |
 | :--------------------- | ---------------------------------------- | ------ | ---- |
 | 2016.06.25-2016.08.05 | SAS챔피언십                                  | 질병     | 포기   |
 | 2017.08.09-2017.10.15 | [빅콘테스트2017](https://github.com/RyuJiseung/BigCon2017) | 대출상환예측 | 참가   |
-| 2017.12.11-2018.01.26 | [L.Point빅데이터콘테스트](https://github.com/RyuJiseung/2018_L.Point_BigData_Competition) | 추천시스템 | 참가 |
-| 2017.09.03-2017.12.17 | [Kaggle competition : churn prediction](https://github.com/RyuJiseung/WSDM_2018) | 고객이탈예측 | 10위   |
+| 2017.12.11-2018.01.26 | [L.Point빅데이터콘테스트](https://github.com/RyuJiseung/2018_L.Point_BigData_Competition) | 추천시스템 | 참가   |
+| 2017.09.03-2017.12.17 | [Kaggle competition : churn prediction](https://github.com/RyuJiseung/WSDM_2018) | 고객이탈예측 | 10위   |
 
 
 <프로젝트>
