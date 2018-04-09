@@ -32,5 +32,4 @@
 | 2017.05.09-2017.05.24   | [뉴스크롤링해서 뉴스요약시스템 만들기](https://github.com/RyuJiseung/NewsCrawling) (Textrank,Laxrank,자체알고리즘) |
 | 2017.05.31-2017.07.24  | Python버전 ISLR스터디 (Ch9. SVM)              |
 | 2017.08.31-2018.02.12  | [파이썬 라이브러리를 활용한 머신러닝](https://github.com/RyuJiseung/Machine-Learning-with-Python) |
-| 2018.02.27-현재  | pytorch를 활용한 이미지 분석 |
 
