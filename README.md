@@ -25,6 +25,7 @@
 | 날짜                    | 기관                                   | 
 | :--------------------- | ---------------------------------------- | 
 | 2018.05.29 | [NICE](https://github.com/RyuJiseung/nice) |
+| 2018.06.29-2018.07.04 | [Daegu Univ](https://github.com/RyuJiseung/2018_Daegue_Bigdata_Camp) |
 
 
 <스터디>
